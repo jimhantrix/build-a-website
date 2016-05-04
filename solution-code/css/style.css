@@ -6,9 +6,32 @@ body {
   border-bottom: 5px solid #222222;
   border-top: 5px solid #222222;
   padding: 50px;
-  background: #F6F6F6;
+  background:url(https://i.imgur.com/AfR1Wum.jpg);
+  background-size: cover;
+}
+
+ h1{
+font-family:Open+Sans;
+}
+
+
+
+
+body > img {
+  height:200px;
+  width :auto;
+}
+
+
+title{
 
 }
+
+head {
+text-align:center;
+
+}
+
 
 a {
   font-weight: bold;
@@ -21,7 +44,7 @@ small {
 
 strong {
   color: #030609;
-  font-style: italic;
+  font-style: bold;
 }
 
 h1 {
